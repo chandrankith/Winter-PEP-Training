@@ -3,8 +3,9 @@ College provides a track and the track that i chose is Python + Python Fullstack
 
 Day-1 :
 Started with basic topics like
-conditional statments
-loops
-funtions
-solved a code of fibonnaci series using funtions
+conditional statments,
+loops,
+funtions,
+solved a code of fibonnaci series using funtions.
+
 
